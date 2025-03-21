@@ -1,4 +1,6 @@
 name: Generate Snake Contribution Graph
+permissions:
+  contents: write
 
 on:
   schedule:
