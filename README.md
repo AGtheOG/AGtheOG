@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on *ML & AI*
  
- 🌱 I’ve recently learned *Socket.io, WebRTC, Firebase*
+ 🌱 I’ve a passion for problem solving, CP, DSA
 
 💬 Ask me about *Node.js,Express.js, React, MongoDB*
 
