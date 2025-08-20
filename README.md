@@ -20,7 +20,7 @@
 
  </div>
  
-<div align="center"> 
+<div align="center inline"> 
   <a href="mailto:aringoyal15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
