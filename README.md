@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on *ML & AI*
  
- 🌱 I’ve a passion for problem solving, CP, DSA
+ 🌱 I’ve a passion for *problem solving, CP, DSA*
 
-💬 Ask me about *Node.js,Express.js, React, MongoDB*
+💬 Ask me about *Node.js, Express.js, React, MongoDB*
 
 ⚡ Fun fact *I like Tennis and Basketball*
 
